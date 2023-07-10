@@ -140,7 +140,7 @@ header {
 .box p {
   color: rgba(39, 39, 39, 0.8);
   text-align: center;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   line-height: 35px;
 }
@@ -152,6 +152,27 @@ header {
   padding: 86px 0px;
   align-items: center;
   border-radius: 8px;
-background-color: rgba(39, 39, 39, 0.05);
+  background-color: rgba(39, 39, 39, 0.05);
 }
 /* HOT DEAL SECTION START FROM Here */
+.primary {
+  color: #e55473;
+}
+.hot-deal-details {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.hot-deal-section {
+  border-radius: 8px;
+  background-color: rgba(229, 84, 115, 0.05);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+  margin-top: 128px;
+}
+.hot-deal-btn{
+    margin-top: 32px;
+}
+/* hot deal ends here */
