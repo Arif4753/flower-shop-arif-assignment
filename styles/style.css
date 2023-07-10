@@ -149,7 +149,7 @@ header {
   justify-content: center;
   width: 70%;
   margin: 175px auto;
-  padding: 86px 0px;
+  padding: 86px 50px;
   align-items: center;
   border-radius: 8px;
   background-color: rgba(39, 39, 39, 0.05);
@@ -176,3 +176,50 @@ header {
     margin-top: 32px;
 }
 /* hot deal ends here */
+/* Social Media section Start from here */
+.insta-section p{
+    text-align: center;
+}
+.insta-section-image{
+    width: 342px;
+height: 396px;
+}
+.box-for-insta-section{
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    margin-top: 48px;
+    margin-bottom: 128px;
+}
+/* Social Media section ends here */
+/* Contact Banner Section Start from Here */
+.contact-banner{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 76%;
+    flex-direction: column;
+    position: relative;
+}
+.contact-banner-img{
+    /* width: 100%; */
+    /* margin: 0 auto; */
+}
+.contact-banner-text{
+    position: absolute;
+    bottom: 110px;
+}
+.contact-banner-text p{
+    text-align: center;
+    margin-bottom: 48px;
+    
+}
+.input-bottom{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+padding: 22px 513px 22px 22px;
+}
+
