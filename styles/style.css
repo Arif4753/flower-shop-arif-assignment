@@ -80,8 +80,8 @@ header {
   margin-bottom: 32px;
   margin-top: 48px;
 }
-.featured-sections-img-two{
-    display: flex;
+.featured-sections-img-two {
+  display: flex;
   align-items: flex-end;
   width: 464px;
   height: 538px;
@@ -91,8 +91,8 @@ header {
   margin-bottom: 32px;
   margin-top: 48px;
 }
-.featured-sections-img-three{
-    display: flex;
+.featured-sections-img-three {
+  display: flex;
   align-items: flex-end;
   width: 464px;
   height: 538px;
@@ -108,15 +108,15 @@ header {
   margin-left: 75px;
 }
 .featured-sections-img-two img {
-    width: 310px;
-    height: 428px;
-    margin-left: 75px;
-  }
-  .featured-sections-img-three img {
-    width: 310px;
-    height: 428px;
-    margin-left: 75px;
-  }
+  width: 310px;
+  height: 428px;
+  margin-left: 75px;
+}
+.featured-sections-img-three img {
+  width: 310px;
+  height: 428px;
+  margin-left: 75px;
+}
 .anchor {
   margin-left: 130px;
   color: #272727;
@@ -127,3 +127,31 @@ header {
   text-decoration-line: underline;
 }
 /* Our Featured Flowers Section  Style end  here */
+/* Extra banner section start from here  */
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-right: 100px;
+}
+.box img {
+  margin-bottom: 10px;
+}
+.box p {
+  color: rgba(39, 39, 39, 0.8);
+  text-align: center;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 35px;
+}
+.extra-banner {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  margin: 175px auto;
+  padding: 86px 0px;
+  align-items: center;
+  border-radius: 8px;
+background-color: rgba(39, 39, 39, 0.05);
+}
+/* HOT DEAL SECTION START FROM Here */
