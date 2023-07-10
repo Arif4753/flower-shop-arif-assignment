@@ -171,6 +171,7 @@ header {
   align-items: center;
   gap: 200px;
   margin-top: 128px;
+  padding-bottom: 100px;
 }
 .hot-deal-btn{
     margin-top: 32px;
