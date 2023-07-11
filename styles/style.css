@@ -269,6 +269,9 @@ font-size: 16px;
 font-weight: 400;
 padding: 22px 513px 22px 22px;
 }
+footer{
+  margin-top: 100px;
+}
 .footer-section{
     display: flex;
     align-items: center;
